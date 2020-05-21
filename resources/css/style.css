@@ -23,7 +23,7 @@ h3 {
     font-weight: normal;
 }
 
-p {
+p a {
     color: aquamarine;
     text-decoration: underline;
     background-color: black;
